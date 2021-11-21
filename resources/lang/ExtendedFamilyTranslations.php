@@ -2239,6 +2239,36 @@ class ExtendedFamilyTranslations
             'linkage challenged' => 'संबंध संदिग्ध',
             'linkage disproven' => 'संबंध अस्वीकृत',
             'linkage proven' => 'संबंध स्वीकृत',
+
+            'Marriage' => 'विवाह',
+            'Ex-marriage' => 'पूर्व विवाह',
+            'Partnership' => 'साझेदारी',
+            'Fiancée' => 'मंगेतर',
+            ' with ' => ' के साथ ',
+
+
+            'Biological grandparents of father' => 'पिता के जैविक दादा दादी',
+            'Biological grandparents of mother' => 'माता के जैविक दादा दादी',
+            'Biological grandparents of parent' => 'माता-पिता के जैविक दादा-दादी',
+            'Stepparents of biological parent of father' => 'पिता के जैविक माता पिता के सौतेले माता पिता',
+            'Stepparents of biological parent of mother' => 'माता के जैविक माता-पिता के सौतेले माता-पिता',
+            'Stepparents of biological grandparent' => 'जैविक दादा-दादी के सौतेले माता-पिता',
+            'Parents of stepparent of father' => 'पिता के सौतेले माता-पिता के माता-पिता',
+            'Parents of stepparent of mother' => 'माता के सौतेले माता-पिता के माता-पिता',
+            'Parents of stepparent of parent' => 'माता-पिता के सौतेले माता-पिता के माता-पिता',
+            'Grandparents of stepparent' => 'सौतेले माता-पिता के दादा-दादी',
+            'Biological great-grandparents' => 'जैविक पर-दादा/दादी',
+            'Biological parents of father' => 'पिता के जैविक माता पिता',
+            'Biological parents of mother' => 'माता के जैविक माता पिता',
+            'Biological parents of parent' => 'माता-पिता के जैविक माता-पिता',
+            'Stepparents of father' => 'पिता के सौतेले माता-पिता',
+            'Stepparents of mother' => 'माता के सौतेले माता-पिता',
+            'Stepparents of parent' => 'माता-पिता के सौतेले माता-पिता',
+            'Parents of stepparent' => 'सौतेले माता-पिता के माता-पिता',
+            'Biological grandparents' => 'जैविक दादा दादी',
+            'Siblings of father' => 'पिता के सहोदर',
+            'Siblings of mother' => 'माता के सहोदर',
+            'Full siblings of biological parents' => 'जैविक माता-पिता के पूर्ण सहोदर',
         ];
     }
 
